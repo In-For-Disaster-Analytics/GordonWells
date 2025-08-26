@@ -9,13 +9,10 @@ site_description:  >-
 repo_name: In-For-Disaster-Analytics/subside
 repo_url: https://github.com/In-For-Disaster-Analytics/subside
 
-# # Custom Homepage Elements
-# home_button1_url: policies/
-
-# Material Configuration
+# Configuration
 theme:
+  logo: https://cdn.jsdelivr.net/gh/TACC/Core-CMS-Custom@813aa7c/ptdatax_assets/logo.png
   name: material
-  logo: assets/pt2050/planes.svg
   custom_dir: overrides
   features:
     - content.code.annotate 
@@ -58,7 +55,7 @@ theme:
       scheme: slate
       toggle:
         icon: material/brightness-4
-        name: Switch to light mode         
+        name: Switch to light mode        
   
     
 extra_css:
@@ -70,7 +67,6 @@ extra_javascript:
   # - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
-
 
 markdown_extensions:
   - admonition
@@ -93,12 +89,9 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.keys
   - pymdownx.mark
-  - pymdownx.snippets
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.snippets:
+      url_download: true
+  - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.tasklist:
@@ -106,22 +99,19 @@ markdown_extensions:
   - pymdownx.tilde
   - tables
   - toc:
-      permalink: true  
+      permalink: true          
 
 plugins:
-    # - mkdocs-jupyter:
-    #       ignore_h1_titles: True          
-    #       include_source: True
-    #       include_requirejs: true
   - awesome-pages:
       # filename: .index
       collapse_single_pages: true
       strict: false
       order: asc
       sort_type: natural
-  # - privacy:
-  #     assets: false
-  #     external_links_attr_map:
-  #       target: _blank
+      # order_by: title
+  # - mkdocs-pdf
+  - privacy:
+      assets: false
+      external_links_attr_map:
+        target: _blank
   - search
-# Page tree
