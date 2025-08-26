@@ -1,16 +1,16 @@
 # Project Information
-site_name: Decision Support Office 
-site_url: https://in-for-disaster-analytics.github.io/REDI-Documentation/
+site_name: Subside
+site_url: https://in-for-disaster-analytics.github.io/subside/
 site_author: UT Austin DSO Team
 site_description:  >-
-  Website for TACC DSO Services
+  Website for the Subside Project
 
 # Repository
-repo_name: In-For-Disaster-Analytics/REDI-Documentation
-repo_url: https://github.com/In-For-Disaster-Analytics/REDI-Documentation
+repo_name: In-For-Disaster-Analytics/subside
+repo_url: https://github.com/In-For-Disaster-Analytics/subside
 
-# Custom Homepage Elements
-home_button1_url: policies/
+# # Custom Homepage Elements
+# home_button1_url: policies/
 
 # Material Configuration
 theme:
