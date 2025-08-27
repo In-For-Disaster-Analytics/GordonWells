@@ -6,9 +6,9 @@ Updates to this website are pushed when the main branch gets updated.
 
 ## Website Contents
 
-- Projects
-- Field Protocols
-  - Fort Davis
+- About: Information about the SUBSIDE project
+- Products: Data and application products produced by the project
+- Training: documentation for using the services provide
 
 ## Run the site locally
 
