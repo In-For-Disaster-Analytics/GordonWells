@@ -3,6 +3,8 @@ title: Subside Training
 author: 
    - DSO team
 created: 2025-08-26
+hide: 
+   - navigation
 ---
 
 !!! Note "Content in Active Development" 
