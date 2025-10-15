@@ -11,7 +11,7 @@ repo_url: https://github.com/In-For-Disaster-Analytics/subside
 
 # Configuration
 theme:
-  logo: /assets/logos/subsidence_logoV1.svg 
+  logo: assets/logos/subsidence_logoV1.svg 
   # https://cdn.jsdelivr.net/gh/TACC/Core-CMS-Custom@813aa7c/ptdatax_assets/logo.png
   name: material
   custom_dir: overrides
