@@ -7,6 +7,7 @@ hide:
   - navigation
   - toc
 ---
+# Subsidence Data Management and Analytics Services  
 **Getting Started with SUBSIDE Data Discovery**
 The Data Discovery service provides searchable access to subsidence-related datasets for Texas and the Gulf Coast region. You can:
 - Search by location, date range, or keyword
