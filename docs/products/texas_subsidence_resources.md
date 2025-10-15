@@ -10,5 +10,5 @@ hide:
 
 
 <div class="map">
-  <iframe width=100%, height=800, frameBorder=0 src="https://ut-austin.maps.arcgis.com/apps/mapviewer/index.html?webmap=cfa89f4bb86a4d5a86e96af9231c1fe9"></iframe>
+  <iframe width=100%, height=800, frameBorder=0 src="https://arcg.is/1PyKGO2"></iframe>
 </div>
