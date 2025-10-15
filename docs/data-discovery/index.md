@@ -8,6 +8,8 @@ hide:
   - toc
 ---
 # Subsidence Data Management and Analytics Services  
+The creation of a centralized storage allocation with API access to streamline data federation between cataloged subsidence data collections and registered data from other sources. The data collection services will focus on making subsidence data collections discoverable with the goal of providing informational resources for various evaluations and decisions made by potential end-users. The design for prototype services will consider an architecture that enables data ingest and storage with metadata and data formatting guidelines. 
+
 **Getting Started with SUBSIDE Data Discovery**
 The Data Discovery service provides searchable access to subsidence-related datasets for Texas and the Gulf Coast region. You can:
 - Search by location, date range, or keyword
