@@ -7,9 +7,6 @@ hide:
    - navigation
 ---
 
-!!! Note "Content in Active Development" 
-    Content pages for this section are in active development and should be released Fall 2025
-
 ## Texas Advanced Computing Center (TACC)
 SUBSIDE is built with access to advanced computing resources and services. A series of training and documentation for TACC resources are available at the following link:
 [https://docs.tacc.utexas.edu/](https://docs.tacc.utexas.edu/)

@@ -11,9 +11,6 @@ hide:
 Advancing Texas Subsidence Information Through Data Integration and Collaborative Science
 </div>
 
-!!! Note "Content in Active Development" 
-    Content pages for this section are in active development and should be released Fall 2025
-
 SUBSIDE is a comprehensive data management and analysis platform developed through collaboration between the Texas Water Development Board (TWDB) and The University of Texas at Austin. The system provides centralized access to subsidence data collections across Texas, integrating diverse monitoring technologies including InSAR satellite imagery, GPS measurements, groundwater observations, models, reusable analysis tools, and extensometer data.  
 
 SUBSIDE enables users to discover, analyze, and understand land subsidence patterns to support informed decision-making for water resource management, infrastructure planning, and hazard mitigation.
@@ -28,6 +25,9 @@ SUBSIDE enables users to discover, analyze, and understand land subsidence patte
 :material-head-check-outline: **Training Resources** - Educational materials and technical guidance  
 
 :simple-collaboraonline: **Collaborative Platform** - Connecting researchers, agencies, and stakeholders  
+
+!!! Note "Content in Active Development" 
+    Content pages for this section are in active development and should be released Fall 2025
 
 ## Terms and Conditions
 ### Prohibited Behavior  
