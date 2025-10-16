@@ -6,7 +6,10 @@ created: 2025-08-26
 hide: 
    - navigation
 ---
+
+
 # Subsidence system for insight and data exploration (SUBSIDE)
+<!-- ![alt text](subside_text_dark.svg "Title") # Add SOME kind of image here-->
 <div style="text-align: right;font-style: italic;">
 Advancing Texas Subsidence Information Through Data Integration and Collaborative Science
 </div>
@@ -15,19 +18,30 @@ SUBSIDE is a comprehensive data management and analysis platform developed throu
 
 SUBSIDE enables users to discover, analyze, and understand land subsidence patterns to support informed decision-making for water resource management, infrastructure planning, and hazard mitigation.
 
+
 ## Key Capabilities
-:material-database-search: **Centralized Data Discovery** - Access subsidence datasets from multiple sources in one location  
 
-:fontawesome-brands-nfc-directional: **Interactive Mapping** - Visualize subsidence patterns across Texas regions  
+<div class="grid cards" markdown>
 
-:simple-simpleanalytics: **Advanced Analytics** - Automated quality assurance and analytical workflows  
+- :material-database-search: **Centralized Data Discovery** 
+: Access subsidence datasets from multiple sources in one location  
 
-:material-head-check-outline: **Training Resources** - Educational materials and technical guidance  
+- :fontawesome-brands-nfc-directional: **Interactive Mapping** 
+: Visualize subsidence patterns across Texas regions  
 
-:simple-collaboraonline: **Collaborative Platform** - Connecting researchers, agencies, and stakeholders  
+- :simple-simpleanalytics: **Advanced Analytics** 
+: Automated quality assurance and analytical workflows  
+
+- :material-head-check-outline: **Training Resources** 
+: Educational materials and technical guidance  
+
+- :simple-collaboraonline: **Collaborative Platform** 
+: Connecting researchers, agencies, and stakeholders  
+
+</div>
 
 !!! Note "Content in Active Development" 
-    Content pages for this section are in active development and should be released Fall 2025
+      Content pages for this section are in active development and should be released Fall 2025
 
 ## Terms and Conditions
 ### Prohibited Behavior  
