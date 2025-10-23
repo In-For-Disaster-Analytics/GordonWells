@@ -1,13 +1,13 @@
 # Project Information
-site_name: Subsidence System for Insight and Data Exploration
-site_url: https://in-for-disaster-analytics.github.io/subside/
+site_name: Gordon Wells Memorial Site
+site_url: https://in-for-disaster-analytics.github.io/gordonwells/
 site_author: UT Austin DSO Team
 site_description:  >-
-  Website for the Subside Project
+  Website for the memorial to the life and work of Gordon Wells
 
 # Repository
-repo_name: In-For-Disaster-Analytics/subside
-repo_url: https://github.com/In-For-Disaster-Analytics/subside
+repo_name: In-For-Disaster-Analytics/gordonwells
+repo_url: https://github.com/In-For-Disaster-Analytics/gordonwells
 
 # Configuration
 theme:
