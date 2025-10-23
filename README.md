@@ -1,14 +1,8 @@
-# Subside
+# Gordon Wells Memorial site
 
-Repository for .md documentation files to create a documentation site for the Subside projects. The information can be found at the [gh-pages website](https://in-for-disaster-analytics.github.io/subside/).
+Repository for .md files and other resources to support a memorial site in honor of Gordon Wells.  The site can be found at the [gh-pages website](https://in-for-disaster-analytics.github.io/gordonwells/).
 
 Updates to this website are pushed when the main branch gets updated.
-
-## Website Contents
-
-- About: Information about the SUBSIDE project
-- Products: Data and application products produced by the project
-- Training: documentation for using the services provide
 
 ## Run the site locally
 
