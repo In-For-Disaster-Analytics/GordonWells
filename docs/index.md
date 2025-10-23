@@ -11,4 +11,4 @@ hide:
 # Gordon Wells Memorial Site
 
 !!! Note "Coming Soon" 
-      
+      We are currently collecting the information for this site. Please come back soon.
